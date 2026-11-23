@@ -1,1 +1,2 @@
-
+UCI Machine Learning Repository, Wine: https://archive.ics.uci.edu/dataset/109/wine
+Dokumentasi scikit-learn (load_wine): https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html
